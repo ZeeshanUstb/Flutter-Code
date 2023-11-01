@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333773777821",
+    "project_id": "salarymanagment",
+    "storage_bucket": "salarymanagment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333773777821:android:44907454950db772a1dd74",
+        "android_client_info": {
+          "package_name": "com.example.salary_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoa0s2l1Nj9B7m_uvCHRzSNdSSpZQYdUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
